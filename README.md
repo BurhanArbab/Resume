@@ -4,9 +4,10 @@ This is a copy of my Resume. <br/>
 
 [Resume](https://github.com/BurhanArbab/ResumeLink)
 
-<img width="1221" height="873" alt="Screenshot 2026-05-16 113143" src="https://github.com/user-attachments/assets/28a50623-c88c-44f6-be56-36b085da802d" />
-/>
-<<img width="1221" height="400" alt="Screenshot 2026-05-16 112953" src="https://github.com/user-attachments/assets/3dffdaf4-a4a4-46fb-9be4-d95f56a102d0" />
-/>
+<img width="1221" height="873" alt="Screenshot 2026-05-16 113317" src="https://github.com/user-attachments/assets/5627d6ab-28d6-4629-8a48-ba0d62893a6f" />
+
+<img width="1221" height="430" alt="Screenshot 2026-05-16 113450" src="https://github.com/user-attachments/assets/c816e3cc-d0ec-4d67-9371-6911ba682a7a" />
+
+
 
 
